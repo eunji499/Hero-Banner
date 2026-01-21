@@ -15,7 +15,7 @@ Lunaris H1
 3. 주요 특징 (Key Features)
 
 
-
+WH-CH756
 
 
 ▸ 하이파이 사운드 (Hi-Fi Sound)
@@ -24,14 +24,19 @@ Lunaris H1
 
 Clear trebles, deep bass, and balanced mids for a studio-like experience
 
+40mm 고성능 NddFeB 드라이버를 사용
 
+강력한 저음, 고해상도 및 선명한 고음을 위한 40mm 고성능 네오디뮴 유닛 드라이버를 채용했습니다.
 
 
 ▸ 액티브 노이즈 캔슬링 (Active Noise Cancelling)
 
 최대 -35dB까지 소음을 차단
-
 지하철, 카페, 사무실 등 어디서나 조용한 몰입 가능
+
+하이브리드 ANC 기술 탑제
+
+원치 않는 소음 차단
 
 
 
@@ -41,7 +46,6 @@ Clear trebles, deep bass, and balanced mids for a studio-like experience
 ▸ 올데이 컴포트 (All-Day Comfort)
 
 메모리폼 이어패드와 가벼운 무게 설계
-
 장시간 착용에도 귀와 머리에 부담 최소화
 
 
@@ -51,7 +55,6 @@ Clear trebles, deep bass, and balanced mids for a studio-like experience
 ▸ 듀얼 모드 연결 (Dual Connectivity)
 
 블루투스 5.3 & 유선 AUX 케이블 지원
-
 끊김 없는 연결성과 다목적 사용성
 
 
@@ -62,5 +65,17 @@ Clear trebles, deep bass, and balanced mids for a studio-like experience
 ▸ 롱 배터리 라이프 (Long Battery Life)
 
 최대 50시간 연속 재생
-
 10분 고속 충전으로 5시간 사용 가능
+
+위 데이터는 실험실에서 테스트한 수치 이므로, 사용 환경에 따라 상이할 수 있습니다.
+음악 1050곡
+영화 35편
+ANC OFF 사용시간 70H
+ANC ON 사용시간 50H
+
+
+
+
+제품 메인 유닛
+헤드폰 케이블
+Type-C USB 케이블
